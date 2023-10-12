@@ -1,0 +1,15 @@
+<repositories>
+        <repository>
+            <id>nuricanozturk01</id>
+            <url>https://raw.github.com/nuricanozturk01/nuricanozturk-dev-maven-repo/master</url>
+        </repository>
+</repositories>
+
+
+<dependencies>
+        <dependency>
+            <groupId>nuricanozturk.dev</groupId>
+            <artifactId>Unit-Test-Framework</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+</dependencies>
