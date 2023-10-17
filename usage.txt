@@ -1,3 +1,4 @@
+
 <repositories>
         <repository>
             <id>nuricanozturk01</id>
@@ -6,10 +7,22 @@
 </repositories>
 
 
+------ Unit-Test-Framework
+
 <dependencies>
         <dependency>
             <groupId>nuricanozturk.dev</groupId>
             <artifactId>Unit-Test-Framework</artifactId>
+            <version>1.0.0</version>
+        </dependency>
+</dependencies>
+
+
+------ Data Structures
+<dependencies>
+        <dependency>
+            <groupId>nuricanozturk.dev</groupId>
+            <artifactId>data-structures-and-algorithms</artifactId>
             <version>1.0.0</version>
         </dependency>
 </dependencies>
